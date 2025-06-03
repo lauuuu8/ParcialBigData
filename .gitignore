@@ -7,3 +7,4 @@ venv/
 pycache/
 .pytest_cache/
 .c9/
+*/.pytest_cache/
